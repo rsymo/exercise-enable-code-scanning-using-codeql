@@ -1,3 +1,4 @@
+
 # Welcome to the Enable code scanning using CodeQL exercise!
 
 This exercise checks your knowledge on enabling code scanning with CodeQL on a GitHub repository. It is automatically graded via a workflow once you have completed the instructions.
